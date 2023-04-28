@@ -1,0 +1,17 @@
+void multiplicationTable(){
+    System.out.println("raju");
+}
+multiplicationTable()
+void Rajuinj()
+{
+    System.out.println("ar");
+}
+Rajuinj()
+void rajuint(){
+    {
+        for(int i=1;i<=3;i++){
+            System.out.println("krishna");
+        }
+    }
+}
+rajuint()
